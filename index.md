@@ -1,11 +1,19 @@
 
+## Causality Workshop 2018 
+
+We are looking forwart to our first **Causality Workshop 14th of December 2018.** 
+
+The event will take place at **University of Zürich, main building** (details will soon follow) and is organised by Beate Sick and Gilles Kratzer.
+
+We want to focus on the question how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some input talks. We like to have **active participation** and encourage discussions and all kind of questions. Note that the number of participants will be limited to ~20 persons (first come first serve) and attendees with active presentation will be given preference.  
+
+### Focus
+
+The focus of the workshop is on sharing experience on how to approach causal research questions when working with observational data  There will be sessions with talks and also a time for discussion and posters during an extended apero. 
+
 <h3>Workshop on Causality </h3>
 
-<ul>
-	 <li/> When: Friday, 14th of December 2018
-	 <li/> Where: UZH main building, room: tba
-	<li/> What: We want to discuss method for causal reasoning with observational data 
- 
+
   <li/>Everybody who is interested in causality can participate as long as we have enough place (first come first serve) - please put your  name and your e-mail on the list below:
 
 </ul>
@@ -13,7 +21,7 @@
 
   <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">participants_list</a>
 
-### Program: 
+### Preliminary Program: 
 
 Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Presenter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---|---|---
