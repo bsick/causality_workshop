@@ -3,19 +3,16 @@
 
 We are looking forwart to our first **Causality Workshop 14th of December 2018.** 
 
-The event will take place at **University of Zürich, main building** (details will soon follow) and is organised by Beate Sick and Gilles Kratzer.
+The event will take place at **University of Zürich, main building** (details will follow soon) and is organised by Beate Sick and Gilles Kratzer.
 
 We want to focus on the question how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some input talks. We like to have **active participation** and encourage discussions and all kind of questions. Note that the number of participants will be limited to ~20 persons (first come first serve) and attendees with active presentation will be given preference.  
 
 ### Focus
 
-The focus of the workshop is on sharing experience on how to approach causal research questions when working with observational data  There will be sessions with talks and also a time for discussion and posters during an extended coffee breaks. 
+The focus of the workshop is on sharing experience on how to approach causal research questions when working with observational data.   There will be sessions with talks and also a time for discussion and posters during an extended coffee breaks. 
 
 ### Participants and Subscription
 Everybody who is interested in causality can participate as long as we have enough place (first come first serve). The workshop is for free. Please put your  name and your e-mail on the list below:
-
-</ul>
-
 
   <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">participants_list</a>
 
