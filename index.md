@@ -5,7 +5,7 @@ We are looking forwart to our first **Causality Workshop 14th of December 2018.*
 
 The event will take place at **University of Zürich, main building** (details will follow soon) and is organised by Beate Sick and Gilles Kratzer.
 
-We want to focus on the question how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some input talks. We like to have **active participation** and encourage discussions and all kind of questions. Note that the number of participants will be limited to ~20 persons (first come first serve) and attendees with active presentation will be given preference.  
+We want to focus on the question how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage discussions and all kind of questions. Note that the number of participants will be limited to ~20 persons (first come first serve) and attendees with active presentation will be given preference.  
 
 ### Focus
 
@@ -22,13 +22,13 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 ---|---|---
 09:00 - 09:15 <br><br/> | --        | Arriving
 09:15 - 09:30 <br><br/> | Beate and Gilles | Welcome 
-09:30 - 10:30 <br><br/> | Gilles | Talk: tba (about Bayesian Networks) 
+09:30 - 10:30 <br><br/> | Gilles (UZH) | Talk: tba (about Bayesian Networks) 
 10:30 - 11:00 <br><br/> | Coffee Break | Coffee Break
-11:00 - 12:00 <br><br/> | Beate | Talk: The book of Why by Judea Pearl and Dana Mackenzie (abstract: to come)
+11:00 - 12:00 <br><br/> | Beate (UZH) | Talk: The book of Why by Judea Pearl and Dana Mackenzie (abstract: to come)
 12:00 - 13:15 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
 13:15 - 14:15 <br><br/> | Markus Kalisch (ETH) | tba (on co-variate adjustment)
 14:15 - 14:45 <br><br/> | Coffee Break | Coffee Break
-14:45 - 15:45 <br><br/>  | Heidi Seibold | tba
+14:45 - 15:45 <br><br/>  | Heidi Seibold (LMU) | tba
 16:00 - 17:00 <br><br/> | you | Poster, Spotlight talks, discussion, closing
 
 
