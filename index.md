@@ -12,7 +12,7 @@ We want to focus on the question how to incorporate causal models in our project
 The focus of the workshop is on sharing experience on how to approach causal research questions when working with observational data.   There will be sessions with talks and also a time for short talks, discussion or posters during extended coffee breaks. 
 
 ### Participants and Subscription
-Everybody who is interested in causality can participate as long as we have enough place (first come first serve). We encourage you to present your projects with causal RQ with short talks or with a poster (please announce planned contributions in the list). The workshop is for free. 
+Everybody who is interested in causality can participate as long as we have enough place (first come first serve). We encourage you to present your projects with causal RQ with short talks or with a poster (please announce planned contributions in the list). The workshop is free (no fees). 
 
 Please put your  name and your e-mail on the list below:
 
