@@ -11,7 +11,7 @@
 </ul>
 
 
-  <a href="hhttps://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">participants_list</a>
+  <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">participants_list</a>
 
 ### Program: 
 
