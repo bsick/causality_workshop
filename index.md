@@ -9,12 +9,13 @@ We want to focus on the question how to incorporate causal models in our project
 
 ### Focus
 
-The focus of the workshop is on sharing experience on how to approach causal research questions when working with observational data  There will be sessions with talks and also a time for discussion and posters during an extended apero. 
+The focus of the workshop is on sharing experience on how to approach causal research questions when working with observational data  There will be sessions with talks and also a time for discussion and posters during an extended coffee breaks. 
 
 <h3>Workshop on Causality </h3>
 
 
-  <li/>Everybody who is interested in causality can participate as long as we have enough place (first come first serve) - please put your  name and your e-mail on the list below:
+### Participants and Subscription
+Everybody who is interested in causality can participate as long as we have enough place (first come first serve). The workshop is for free. Please put your  name and your e-mail on the list below:
 
 </ul>
 
