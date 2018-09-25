@@ -1,4 +1,3 @@
-## Webpage for Biostatistics in Fall 2018
-
- https://bsick.github.io/Biostatistics-Fall-2018/
+## Webpage for the causality workshop 2018
+https://bsick.github.io/causality_workshop/
 
