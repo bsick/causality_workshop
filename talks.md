@@ -1,4 +1,9 @@
 
+## Bayesian networks meet observational data
+**Gilles Kratzer (UZH)**
+Abstract:
+Bayesian Networks are types of graphical models that are useful to model high dimensional and strongly correlated data in a causal or acausal perspective. They have an impressive track record list of successful applications to real-world data. Bayesian networks are used for modelling beliefs in a wide range of domains such as social sciences, veterinary epidemiology, decisions support system or bioinformatics. The purpose of this talk is to present a short overview of the comprehensive methodology using an R package called abn. To introduce large classes of algorithms used in practice to learn the structures. To discuss performance and practical usability of approximate or exact inference frameworks. In an applied perspective and in Bayesian Network context, researchers often struggle to select a moderate number of variables. Indeed the class of problem where Bayesian Networks are proficient implies typically not a unique outcome-type formulation. Consequently, classical variable selection methods based on predictive power often fail to select significant variables when related to multiple outcomes. A possible alternative, based on a general implementation of the minimum redundancy maximum relevance model, will be presented using the varrank R package. Possible synergies between those methodologies will be highlighted using real-world data.
+
 ## The book of Why 
 **Beate Sick (UZH)**
 
@@ -11,9 +16,6 @@ The reading of the book inspired me a lot and brought me to reflect on typical p
 and machine learning and the great potentials of incorporating causal graphical using the language of Bayesian Networks. 
 I will use examples from the book to point out that intervention planning and the search for causal relationships with observational data
 requires the usage of graphical causal models.
-
-**Gilles Kratzer (UZH)**
-tba
 
 **Markus Kalisch (ETH)**
 tba
