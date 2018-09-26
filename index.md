@@ -27,11 +27,11 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 09:30 - 10:15 <br><br/> | Gilles Kratzer (UZH) | Talk: tba (about Bayesian Networks) 
 10:15 - 10:45 <br><br/> | Coffee Break | Coffee Break
 10:45 - 11:30 <br><br/> | Beate Sick (UZH) | [talk](talks.md): The book of Why by Judea Pearl and Dana Mackenzie 
-11:30 - 12:00 <br><br/> | you | Short talks, discussion
-12:00 - 13:15 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
-13:15 - 14:15 <br><br/> | Markus Kalisch (ETH) | tba (on co-variate adjustment)
-14:15 - 14:45 <br><br/> | Coffee Break | Coffee Break
-14:45 - 15:45 <br><br/>  | Heidi Seibold (LMU) | tba
+11:30 - 12:30 <br><br/> | you | Short talks, discussion
+12:30 - 13:45 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
+13:45 - 14:30 <br><br/> | Markus Kalisch (ETH) | tba (on co-variate adjustment)
+14:30 - 15:00 <br><br/> | Discussion and Coffee Break | Coffee Break
+15:00 - 15:45 <br><br/>  | Heidi Seibold (LMU) | tba
 16:00 - 17:00 <br><br/> | you | Short talks, poster, discussion, closing
 
 
