@@ -23,5 +23,6 @@ requires the usage of graphical causal models.
 **Markus Kalisch (ETH)**
 tba
 
-**Heidi Seibold (LMU)**
-tba
+## Methods to estimate personalised treatment effects in observational data
+**Heidi Seibold or Daniela Buchwald (LMU)**
+abstract will follow soon
