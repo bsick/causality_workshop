@@ -28,5 +28,6 @@ Abstract:
 Covariate adjustment is a popular tool for trying to estimat causal effects from interventional and observational data. We sketch both fields of application and comment on recent research on the validity of covariate adjustment sets.
 
 ## Methods to estimate personalised treatment effects in observational data
-**Heidi Seibold or Daniela Buchwald (LMU)**
-abstract will follow soon
+**Heidi Seibold and Daniela Buchwald (LMU)**
+
+Abstracts will follow soon
