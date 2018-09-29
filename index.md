@@ -29,7 +29,7 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 10:45 - 11:30 <br><br/> | Beate Sick (UZH) | [Talk](talks.md): The book of Why by Judea Pearl and Dana Mackenzie 
 11:30 - 12:30 <br><br/> | you | Short talks, discussion
 12:30 - 13:45 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
-13:45 - 14:30 <br><br/> | Markus Kalisch (ETH) | Talk: Co-variate adjustment (details follow)
+13:45 - 14:30 <br><br/> | Markus Kalisch (ETH) | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
 14:30 - 15:00 <br><br/> | Discussion and Coffee Break | Coffee Break
 15:00 - 15:45 <br><br/>  | Heidi Seibold, Daniela Buchwald (LMU) | [Talk](talks.md) Methods to estimate personalised treatment effects in observational data
 16:00 - 17:00 <br><br/> | you | Short talks, poster, discussion, closing
