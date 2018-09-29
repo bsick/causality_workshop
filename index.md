@@ -12,7 +12,7 @@ We call for small <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIK
 The focus of the workshop is on sharing ideas and experience on how to approach causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks or posters), discussions, and all kind of questions. There will be sessions with talks and also a time for short talks, discussion or posters during extended coffee breaks. 
 
 ### Participants and Subscription
-Everybody who is interested in causality can participate as long as we have enough place (first come first serve). We encourage you to present your projects with causal RQ with short talks or with a poster (please announce planned contributions in the list). Note that the number of participants will be limited to ~20-30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees). 
+Everybody who is interested in causality can participate as long as we have enough place (first come first serve). We encourage you to present your projects with causal RQ with short talks or with a poster (please announce planned contributions in the list). Note that the number of participants will be limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees). 
 
 Please put your  name and your e-mail on the list below:
 
