@@ -20,8 +20,12 @@ and machine learning and the great potentials of incorporating causal graphical 
 I will use examples from the book to point out that intervention planning and the search for causal relationships with observational data
 requires the usage of graphical causal models.
 
+## Comparing covariate adjustment in interventional and observational studies 
 **Markus Kalisch (ETH)**
-tba
+
+Abstract:
+
+Covariate adjustment is a popular tool for trying to estimat causal effects from interventional and observational data. We sketch both fields of application and comment on recent research on the validity of covariate adjustment sets.
 
 ## Methods to estimate personalised treatment effects in observational data
 **Heidi Seibold or Daniela Buchwald (LMU)**
