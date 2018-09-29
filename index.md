@@ -5,14 +5,14 @@ We are looking forwart to our first **Causality Workshop 14th of December 2018.*
 
 The event will take place at **University of Zürich, main building** (details will follow soon) and is organised by Beate Sick and Gilles Kratzer.
 
-We call for small <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">contributions</a> - short talks or posters where you e.g. describe your ideas on causal inference or projects in which you would like to incorporate causal inference approaches. This is an introductory workshop - we expect no method development contributions (it would still be welcome) but want mainly to get some posters on which we can discuss if causal methods would be appropriate.
+We call for small <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">contributions</a> - short talks or posters where you describe your ideas on causal inference or projects in which you incorporate, or would like to incorporate, causal inference approaches. This is an introductory workshop - we expect no method development contributions (but also these are welcome), but rather posters or talks on the application of causal modeling or on projects with causal research questions on which we can discuss how causal methods could be applied. In general all topics dealing with aspects of causal modeling are welcome (e.g. on methods suggested by Pearl).
 
 ### Focus
 
 The focus of the workshop is on sharing ideas and experience on how to approach causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks or posters), discussions, and all kind of questions. There will be sessions with talks and also a time for short talks, discussion or posters during extended coffee breaks. 
 
 ### Participants and Subscription
-Everybody who is interested in causality can participate as long as we have enough place (first come first serve). We encourage you to present your projects with causal RQ with short talks or with a poster (please announce planned contributions in the list). Note that the number of participants will be limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees). 
+Everybody who is interested in causality can participate as long as we have enough place (first come first serve). We encourage you to present your projects with causal RQ with short talks or with a poster (please announce planned contributions in the list). Note that the number of participants are limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees). 
 
 Please put your  name and your e-mail on the list below:
 
