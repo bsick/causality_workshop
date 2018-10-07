@@ -28,7 +28,7 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 09:30 - 10:15 <br><br/> | Gilles Kratzer (UZH) | [Talk](talks.md): Bayesian networks meet observational data 
 10:15 - 10:45 <br><br/> | Coffee Break | Coffee Break
 10:45 - 11:30 <br><br/> | Beate Sick (UZH) | [Talk](talks.md): The book of Why by Judea Pearl and Dana Mackenzie 
-11:30 - 12:30 <br><br/> | you | Short talks, discussion
+11:30 - 12:30 <br><br/> | you, Julia Casutt | [Short Talks](short-talks.md), discussion
 12:30 - 13:45 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
 13:45 - 14:30 <br><br/> | Markus Kalisch (ETH) | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
 14:30 - 15:00 <br><br/> | Discussion and Coffee Break | Coffee Break
