@@ -3,7 +3,7 @@
 
 We are looking forwart to our first **Causality Workshop 14th of December 2018.** 
 
-The event will take place at **University of Zürich, KO2-F-156** (between UZH main building and Mensa)  and is organised by Beate Sick and Gilles Kratzer.
+The event will take place at **University of Zürich, KO2-F-156** (between UZH main building and Mensa)  and is jointly organised by Beate Sick (Department of Biostatistics UZH) and Gilles Kratzer (Applied Statstics group UZH).
 
 We have some [confirmed input talks](talks.md) and in addition we
 **call for <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">contributions</a>** - short talks or posters where you describe your ideas on causal inference or projects in which you incorporate, or would like to incorporate, causal inference approaches. This is an introductory workshop - we expect no method development contributions (but also these are welcome), but rather posters or talks on the application of causal modeling or on projects with causal research questions on which we can discuss how causal methods could be applied. In general all topics dealing with aspects of causal modeling are welcome (e.g. discussing methods suggested by Pearl or other researchers in the causality field).
