@@ -1,4 +1,6 @@
 
+![](uzh_logo_e_pos_web_main_zone.jpg)
+
 ## Causality Workshop 2018 
 
 We are looking forwart to our first **Causality Workshop 14th of December 2018.** 
