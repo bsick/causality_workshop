@@ -12,7 +12,8 @@ We have some [confirmed input talks](talks.md) and in addition we
 
 ### Focus
 
-The focus of the workshop is on sharing ideas and experience on how to approach causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks or posters), discussions, and all kind of questions. There will be sessions with talks and also a time for short talks, discussion or posters during extended coffee breaks. 
+The focus of the workshop is on sharing ideas and experience on how to approach causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks), discussions, and all kind of questions. There will be sessions with talks and also a time for short talks, . 
+an apero and a discussion round at the end of the workshop. 
 
 ### Subscription
 Everybody who is interested in causality is welcome to participate. Note that the number of participants is limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees). 
@@ -35,7 +36,7 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 13:45 - 14:30 <br><br/> | Markus Kalisch (ETH) | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
 14:30 - 15:00 <br><br/> | Discussion and Coffee Break | Coffee Break
 15:00 - 15:45 <br><br/>  | Heidi Seibold, Daniela Buchwald (LMU) | [Talk](talks.md): Methods to estimate personalised treatment effects in observational data
-16:00 - 17:00 <br><br/> | you | Short talks, poster, discussion, closing
+16:00 - 17:00 <br><br/> | you | Short talks, discussion round, closing
 
 
 
