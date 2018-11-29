@@ -7,13 +7,11 @@ We are looking forwart to our first **Causality Workshop 14th of December 2018.*
 
 The event will take place at **University of Zürich, KO2-F-156** (between UZH main building and Mensa)  and is jointly organised by Beate Sick (Department of Biostatistics UZH) and Gilles Kratzer (Applied Statstics group UZH).
 
-We have some [confirmed input talks](talks.md) and in addition we
-**call for <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">contributions</a>** - short talks or posters where you describe your ideas on causal inference or projects in which you incorporate, or would like to incorporate, causal inference approaches. This is an introductory workshop - we expect no method development contributions (but also these are welcome), but rather posters or talks on the application of causal modeling or on projects with causal research questions.
+We have some  [invited talks](talks.md) and [contributed talks](talks.md).  
 
 ### Focus
 
-The focus of the workshop is on sharing ideas and experience on how to approach causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks), discussions, and all kind of questions. There will be sessions with talks and also a time for short talks, . 
-an apero and a discussion round at the end of the workshop. 
+The focus of the workshop is on sharing ideas and experience on how to approach intervention planning or causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks), discussions, and all kind of questions.  
 
 ### Subscription
 Everybody who is interested in causality is welcome to participate. Note that the number of participants is limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees). 
@@ -38,7 +36,7 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 14:50 - 15:10 <br><br/> |  --  | Coffee Break
 15:10 - 15:35 <br><br/>  | Heidi Seibold (LMU) | [Talk](talks.md): Challenges of intervention planning in an ongoing project with observational MS patient data
 15:35 - 16:00 <br><br/>  |  Christoph Molnar (LMU) | [Talk](talks.md): Interpretable Machine Learning
-16:00 - 17:00 <br><br/> | all | Apero, discussion round, closing
+16:00 - 17:00 <br><br/> | all |  **Discussion round**, closing, apero
 
 
 
