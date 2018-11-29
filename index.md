@@ -7,8 +7,6 @@ We are looking forwart to our first **Causality Workshop 14th of December 2018.*
 
 The event will take place at **University of Zürich, KO2-F-156** (between UZH main building and Mensa)  and is jointly organised by Beate Sick (Department of Biostatistics UZH) and Gilles Kratzer (Applied Statstics group UZH).
 
-We have some  [invited talks](talks.md) and [contributed talks](talks.md).  
-
 ### Focus
 
 The focus of the workshop is on sharing ideas and experience on how to approach intervention planning or causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks), discussions, and all kind of questions.  
