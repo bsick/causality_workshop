@@ -30,16 +30,15 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 09:10 - 09:20 <br><br/> | Beate and Gilles | Welcome 
 09:20 - 10:15 <br><br/> | Beate Sick (UZH) | [Talk](talks.md): The book of Why by Judea Pearl and Dana Mackenzie with hands on part
 10:15 - 10:45 <br><br/> | Coffee Break | Coffee Break
-10:45 - 11:10 <br><br/> | Julia Casutt | [Short Talks](short-talks.md), discussion
+10:45 - 11:10 <br><br/> | Julia Casutt | [Talk](talks.md): Effects of client-counselor matching on counseling and motivating unemployed clients
 11:10 - 12:00 <br><br/> | Gilles Kratzer (UZH) | [Talk](talks.md): Bayesian networks meet observational data 
-12:00 - 13:20 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
-13:20 - 14:10 <br><br/> | Markus Kalisch (ETH) | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
-14:10 - 14:50 <br><br/>  |  Daniela Buchwald (LMU) | [Talk](talks.md): Methods to estimate personalised treatment effects in observational data
-14:50 - 15:10 <br><br/> | Discussion and Coffee Break | Coffee Break
-15:00 - 15:45 <br><br/>  | Heidi Seibold (LMU) | [Talk](talks.md): Challenges of intervention planning in an ongoing project with observational MS patient data
-15:45 - 15:10 <br><br/>  |  Christoph Molnar (LMU) | [Talk](talks.md): Interpretable Machine Learning
-
-16:00 - 17:00 <br><br/> | you | Discussion round, closing
+12:00 - 13:30 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
+13:30 - 14:20 <br><br/> | Markus Kalisch (ETH) | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
+14:20 - 14:50 <br><br/>  |  Daniela Buchwald (LMU) | [Talk](talks.md): Methods to estimate personalised treatment effects in observational data
+14:50 - 15:15 <br><br/> | Discussion and Coffee Break | Coffee Break
+15:15 - 15:35 <br><br/>  | Heidi Seibold (LMU) | [Talk](talks.md): Challenges of intervention planning in an ongoing project with observational MS patient data
+15:35 - 16:00 <br><br/>  |  Christoph Molnar (LMU) | [Talk](talks.md): Interpretable Machine Learning
+16:00 - 17:00 <br><br/> | you | Apero, discussion round, closing
 
 
 
