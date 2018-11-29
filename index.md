@@ -38,7 +38,7 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 14:50 - 15:15 <br><br/> | Discussion and Coffee Break | Coffee Break
 15:15 - 15:35 <br><br/>  | Heidi Seibold (LMU) | [Talk](talks.md): Challenges of intervention planning in an ongoing project with observational MS patient data
 15:35 - 16:00 <br><br/>  |  Christoph Molnar (LMU) | [Talk](talks.md): Interpretable Machine Learning
-16:00 - 17:00 <br><br/> | you | Apero, discussion round, closing
+16:00 - 17:00 <br><br/> | all | Apero, discussion round, closing
 
 
 
