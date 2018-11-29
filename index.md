@@ -8,7 +8,7 @@ We are looking forwart to our first **Causality Workshop 14th of December 2018.*
 The event will take place at **University of Zürich, KO2-F-156** (between UZH main building and Mensa)  and is jointly organised by Beate Sick (Department of Biostatistics UZH) and Gilles Kratzer (Applied Statstics group UZH).
 
 We have some [confirmed input talks](talks.md) and in addition we
-**call for <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">contributions</a>** - short talks or posters where you describe your ideas on causal inference or projects in which you incorporate, or would like to incorporate, causal inference approaches. This is an introductory workshop - we expect no method development contributions (but also these are welcome), but rather posters or talks on the application of causal modeling or on projects with causal research questions on which we can discuss how causal methods could be applied. In general all topics dealing with aspects of causal modeling are welcome (e.g. discussing methods suggested by Pearl or other researchers in the causality field).
+**call for <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">contributions</a>** - short talks or posters where you describe your ideas on causal inference or projects in which you incorporate, or would like to incorporate, causal inference approaches. This is an introductory workshop - we expect no method development contributions (but also these are welcome), but rather posters or talks on the application of causal modeling or on projects with causal research questions.
 
 ### Focus
 
@@ -26,17 +26,20 @@ Please put your  name and your e-mail on the list below:
 
 Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Presenter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---|---|---
-09:00 - 09:15 <br><br/> | --        | Arriving
-09:15 - 09:30 <br><br/> | Beate and Gilles | Welcome 
-09:30 - 10:15 <br><br/> | Gilles Kratzer (UZH) | [Talk](talks.md): Bayesian networks meet observational data 
+09:00 - 09:10 <br><br/> | --        | Arriving
+09:10 - 09:20 <br><br/> | Beate and Gilles | Welcome 
+09:20 - 10:15 <br><br/> | Beate Sick (UZH) | [Talk](talks.md): The book of Why by Judea Pearl and Dana Mackenzie with hands on part
 10:15 - 10:45 <br><br/> | Coffee Break | Coffee Break
-10:45 - 11:30 <br><br/> | Beate Sick (UZH) | [Talk](talks.md): The book of Why by Judea Pearl and Dana Mackenzie 
-11:30 - 12:30 <br><br/> | you, Julia Casutt | [Short Talks](short-talks.md), discussion
-12:30 - 13:45 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
-13:45 - 14:30 <br><br/> | Markus Kalisch (ETH) | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
-14:30 - 15:00 <br><br/> | Discussion and Coffee Break | Coffee Break
-15:00 - 15:45 <br><br/>  | Heidi Seibold, Daniela Buchwald (LMU) | [Talk](talks.md): Methods to estimate personalised treatment effects in observational data
-16:00 - 17:00 <br><br/> | you | Short talks, discussion round, closing
+10:45 - 11:10 <br><br/> | Julia Casutt | [Short Talks](short-talks.md), discussion
+11:10 - 12:00 <br><br/> | Gilles Kratzer (UZH) | [Talk](talks.md): Bayesian networks meet observational data 
+12:00 - 13:20 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
+13:20 - 14:10 <br><br/> | Markus Kalisch (ETH) | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
+14:10 - 14:50 <br><br/>  |  Daniela Buchwald (LMU) | [Talk](talks.md): Methods to estimate personalised treatment effects in observational data
+14:50 - 15:10 <br><br/> | Discussion and Coffee Break | Coffee Break
+15:00 - 15:45 <br><br/>  | Heidi Seibold (LMU) | [Talk](talks.md): Challenges of intervention planning in an ongoing project with observational MS patient data
+15:45 - 15:10 <br><br/>  |  Christoph Molnar (LMU) | [Talk](talks.md): Interpretable Machine Learning
+
+16:00 - 17:00 <br><br/> | you | Discussion round, closing
 
 
 
