@@ -14,7 +14,7 @@ The focus of the workshop is on sharing ideas and experience on how to approach 
 ### Subscription
 Everybody who is interested in causality is welcome to participate. Note that the number of participants is limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees) - we thank Reinhard Furrer, head of the Applied Statistics group at UZH, for sponsoring the event. 
 
-Please put your  name and your e-mail on the list below:
+To register, please put your  name and your e-mail on the list below:
 
   <a href="https://docs.google.com/spreadsheets/d/152oGwHph-zKIKvuVZOR4Ws36xfrmyrhaU6WT8BvJNNM/edit?usp=sharing">**participants_list**</a>
 
