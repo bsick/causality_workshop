@@ -12,7 +12,7 @@ The event will take place at **University of Zürich, KO2-F-156** (between UZH m
 The focus of the workshop is on sharing ideas and experience on how to approach intervention planning or causal research questions when working with observational data. We want discuss how to incorporate causal models in our projects. We do not assume familiarity with the theory of causal models but will give some [input talks](talks.md). We like to have **active participation** and encourage contributions (short talks), discussions, and all kind of questions.  
 
 ### Subscription
-Everybody who is interested in causality is welcome to participate. Note that the number of participants is limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees). 
+Everybody who is interested in causality is welcome to participate. Note that the number of participants is limited to 30 persons (first come first serve) and attendees with active presentation will be given preference.  The workshop is free (no fees) - we thank Reinhard Furrer, head of the Applied Statistics group, for sponsoring the event. 
 
 Please put your  name and your e-mail on the list below:
 
