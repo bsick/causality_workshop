@@ -5,7 +5,7 @@
 
 We are looking forwart to our first **Causality Workshop 14th of December 2018.** 
 
-The event will take place at **University of Zürich, KO2-F-156** (between UZH main building and Mensa)  and is jointly organised by Beate Sick (Department of Biostatistics UZH) and Gilles Kratzer (Applied Statstics group UZH).
+The event will take place at <a href="https://www.plaene.uzh.ch/KO2">**University of Zürich, KO2-F-156**</a> (next to UZH main building and Mensa)  and is jointly organised by Beate Sick (Department of Biostatistics UZH) and Gilles Kratzer (Applied Statstics group UZH).
 
 ### Focus
 
