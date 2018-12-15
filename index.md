@@ -24,16 +24,16 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 ---|---|---
 09:00 - 09:10 <br><br/> | --        | Arriving
 09:10 - 09:20 <br><br/> | Beate and Gilles | Welcome 
-09:20 - 10:15 <br><br/> | Beate Sick (UZH) | [Talk](talks.md): The book of Why by Judea Pearl and Dana Mackenzie with hands on part
+09:20 - 10:15 <br><br/> | Beate Sick (UZH) | The book of Why by Judea Pearl and Dana Mackenzie with hands on part: [abstract](talks.md), [slides](/slides/talk_Beate_Sick.pdf) 
 10:15 - 10:45 <br><br/> |  --  | Coffee Break
-10:45 - 11:10 <br><br/> | Julia Casutt | [Talk](talks.md): Effects of client-counselor matching on counseling and motivating unemployed clients
-11:10 - 12:00 <br><br/> | Gilles Kratzer (UZH) | [Talk](talks.md): Bayesian networks meet observational data 
+10:45 - 11:10 <br><br/> | Julia Casutt |  Effects of client-counselor matching on counseling and motivating unemployed clients:  [abstract](talks.md), [slides](/slides/talk_Julia_Casutt.pdf) 
+11:10 - 12:00 <br><br/> | Gilles Kratzer (UZH) | Bayesian networks meet observational data:  [abstract](talks.md), [slides](/slides/talk_Beate_Sick.pdf) 
 12:00 - 13:30 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
-13:30 - 14:00 <br><br/> | Christoph Molnar (LMU)  | [Talk](talks.md): Interpretable Machine Learning 
-14:00 - 14:40 <br><br/>  |  Daniela Buchwald (LMU) | [Talk](talks.md): Methods to estimate personalised treatment effects in observational data
+13:30 - 14:00 <br><br/> | Christoph Molnar (LMU)  | Interpretable Machine Learning:  [abstract](talks.md), [slides](/slides/talk_Beate_Sick.pdf)  
+14:00 - 14:40 <br><br/>  |  Daniela Buchwald (LMU) | Methods to estimate personalised treatment effects in observational data:  [abstract](talks.md), [slides](/slides/talk_Daniela_Buchwald.pdf) 
 14:40 - 15:00 <br><br/> |  --  | Coffee Break
-15:00 - 15:50<br><br/>  | Markus Kalisch (ETH)  | [Talk](talks.md): Comparing covariate adjustment in interventional and observational studies
-15:50 - 16:15 <br><br/>  | Heidi Seibold (LMU) | [Talk](talks.md): Challenges of intervention planning in an ongoing project with observational MS patient data
+15:00 - 15:50<br><br/>  | Markus Kalisch (ETH)  | Comparing covariate adjustment in interventional and observational studies:  [abstract](talks.md), [slides](/slides/talk_Beate_Sick.pdf) 
+15:50 - 16:15 <br><br/>  | Heidi Seibold (LMU) | Challenges of intervention planning in an ongoing project with observational MS patient data:  [abstract](talks.md), [slides](/slides/talk_Heidi_Seibold.pdf) 
 16:15 - 17:00 <br><br/> | all |  **Discussion round**, closing, **apero**
 
 
