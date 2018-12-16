@@ -29,7 +29,7 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 10:45 - 11:10 <br><br/> | Julia Casutt |  Effects of client-counselor matching on counseling and motivating unemployed clients:  [abstract](talks.md), [slides](/slides/talk_Julia_Casutt.pdf) 
 11:10 - 12:00 <br><br/> | Gilles Kratzer (UZH) | Bayesian networks meet observational data:  [abstract](talks.md)
 12:00 - 13:30 <br><br/> | -- | Lunch at your own expense (e.g. Mensa UZH)
-13:30 - 14:00 <br><br/> | Christoph Molnar (LMU)  | Interpretable Machine Learning:  [abstract](talks.md), [slides](https://github.com/bsick/causality_workshop/blob/master/slides/talk_Christoph_Molnar.html)
+13:30 - 14:00 <br><br/> | Christoph Molnar (LMU)  | Interpretable Machine Learning:  [abstract](talks.md), [slides: right click on view raw and then save link as](https://github.com/bsick/causality_workshop/blob/master/slides/talk_Christoph_Molnar.html)
 14:00 - 14:40 <br><br/>  |  Daniela Buchwald (LMU) | Methods to estimate personalised treatment effects in observational data:  [abstract](talks.md), [slides](/slides/talk_Daniela_Buchwald.pdf) 
 14:40 - 15:00 <br><br/> |  --  | Coffee Break
 15:00 - 15:50<br><br/>  | Markus Kalisch (ETH)  | Comparing covariate adjustment in interventional and observational studies:  [abstract](talks.md)
